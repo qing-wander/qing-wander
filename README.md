@@ -216,13 +216,11 @@
 <!-- ─── 底部横幅 ─────────────────────────────────────────────── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:fb923c&height=120&section=footer" width="100%"/>
 
-<!-- ─── 贪吃蛇动画（待 Action 生成 output 分支后启用）────────── -->
-<!--
+<!-- ─── 贪吃蛇动画 ─────────────────────────────────────────────── -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/qing-wander/qing-wander/output/github-snake-dark.svg" alt="Snake animation" data-default="dark" />
   <img src="https://raw.githubusercontent.com/qing-wander/qing-wander/output/github-snake.svg" alt="Snake animation" data-default="light" />
 </div>
--->
 
 ---
 
