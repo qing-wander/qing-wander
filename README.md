@@ -1,14 +1,3 @@
----
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: 'df5abb78-c869-4a31-9c62-efdb6a814323'
-  PropagateID: 'df5abb78-c869-4a31-9c62-efdb6a814323'
-  ReservedCode1: '10c638f1-3a39-4606-adc2-8289d3a4aac9'
-  ReservedCode2: '10c638f1-3a39-4606-adc2-8289d3a4aac9'
----
-
 <!-- ═══════════════════════════════════════════════════════════════
      GITHUB PROFILE README — LQ · 财务会计
      主题色: 橙 (#F97316) × 蓝 (#2563EB) × 深色
@@ -227,11 +216,13 @@ AIGC:
 <!-- ─── 底部横幅 ─────────────────────────────────────────────── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:fb923c&height=120&section=footer" width="100%"/>
 
-<!-- ─── 贪吃蛇动画 ─────────────────────────────────────────────── -->
+<!-- ─── 贪吃蛇动画（待 Action 生成 output 分支后启用）────────── -->
+<!--
 <div align="center">
   <img src="https://raw.githubusercontent.com/qing-wander/qing-wander/output/github-snake-dark.svg" alt="Snake animation" data-default="dark" />
   <img src="https://raw.githubusercontent.com/qing-wander/qing-wander/output/github-snake.svg" alt="Snake animation" data-default="light" />
 </div>
+-->
 
 ---
 
@@ -240,5 +231,3 @@ AIGC:
   <br>
   <sub>使用 <a href="https://github.com/rzashakeri/beautify-github-profile">beautify-github-profile</a> 生成</sub>
 </div>
-
-> AI生成
