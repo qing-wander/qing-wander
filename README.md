@@ -234,17 +234,11 @@ Built with pure HTML / CSS / JS · Zero dependencies · Fully responsive
 <!-- ─── FOOTER BANNER ─────────────────────────────────────────────── -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:fb923c&height=120&section=footer" width="100%"/>
 
-<!-- ─── SNAKE ANIMATION (requires GitHub Action setup) ───────────── -->
-<!--
+<!-- ─── SNAKE ANIMATION ───────────────────────────────────────────── -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/qing-wander/qing-wander/output/github-snake-dark.svg" alt="Snake animation" data-default="dark" />
   <img src="https://raw.githubusercontent.com/qing-wander/qing-wander/output/github-snake.svg" alt="Snake animation" data-default="light" />
 </div>
-
-Setup: Create a GitHub Action workflow in .github/workflows/snake.yml
-to auto-generate the snake contribution animation.
-See: https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid
--->
 
 ---
 
